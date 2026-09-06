@@ -1,0 +1,13 @@
+{
+  "name": "nystead-builder",
+  "owner": {
+    "name": "Ivan Kabetskyi"
+  },
+  "plugins": [
+    {
+      "name": "nystead-builder",
+      "source": "./",
+      "description": "Nystead Builder — the same gated engineering workflow for people who do not write software: a technical question is never put to you — it is answered from the canon, queued for review and surfaced as an assumption; only business decisions reach you. The skills are served by the Nystead server the plugin connects to on install. One-week trial, then paid."
+    }
+  ]
+}
