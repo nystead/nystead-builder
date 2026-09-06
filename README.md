@@ -1,6 +1,6 @@
-# Nystead Builder (`nystead-builder` 0.8.2)
+# Nystead Builder (`nystead-builder` 0.8.3)
 
-Nystead Builder — the same gated engineering workflow for people who do not write software: a technical question is never put to you — it is answered from the canon, queued for review and surfaced as an assumption; only business decisions reach you. The skills are served by the Nystead server the plugin connects to on install. One-week trial, then paid.
+Nystead Builder — the same gated engineering workflow for people who do not write software: a technical question is never put to you — it is answered from the canon, queued for review and surfaced as an assumption; only business decisions reach you. The skills are served by the Nystead server the plugin connects to on install. Start with /start: it sets your computer up with you, one step at a time, asking before it changes anything and saying why. One-week trial, then paid.
 
 ## What is in this plugin
 
@@ -39,7 +39,8 @@ cleanly, with no partial artefacts. This version ships before the per-user licen
 bearer token in `.mcp.json` is shared abuse protection, and the plain-language interview and
 assumptions ledger Nystead Builder is designed around are not in it yet — today it runs the same
 workflow as Nystead for Teams with every technical question answered from the canon instead of
-being put to you.
+being put to you, plus a step-by-step setup that asks your permission before every change to your
+computer and says in plain words what each one is for.
 
 ## Where the workflow itself is documented
 
