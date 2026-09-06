@@ -1,4 +1,4 @@
-# Nystead Builder (`nystead-builder` 0.7.5)
+# Nystead Builder (`nystead-builder` 0.8.1)
 
 Nystead Builder — the same gated engineering workflow for people who do not write software: a technical question is never put to you — it is answered from the canon, queued for review and surfaced as an assumption; only business decisions reach you. The skills are served by the Nystead server the plugin connects to on install. One-week trial, then paid.
 
