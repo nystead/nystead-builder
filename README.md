@@ -1,4 +1,4 @@
-# Nystead Builder (`nystead-builder` 0.8.1)
+# Nystead Builder (`nystead-builder` 0.8.2)
 
 Nystead Builder — the same gated engineering workflow for people who do not write software: a technical question is never put to you — it is answered from the canon, queued for review and surfaced as an assumption; only business decisions reach you. The skills are served by the Nystead server the plugin connects to on install. One-week trial, then paid.
 
@@ -20,8 +20,16 @@ files the skills use (scripts, CLIs, checks) are written under this plugin's fol
 This repository is its own marketplace. Nystead for Teams lives in its
 own repository the same way.
 
-Nothing to configure. Check the connection with `/mcp` — `nystead` is listed — and run
-`node "${CLAUDE_PLUGIN_ROOT}/scripts/skill.mjs" --list` from any session to see what is served.
+Nothing to configure.
+
+## Start here
+
+Type `/start` and say what you want to build, in your own words.
+
+That is the whole instruction. It sets up what this computer needs one step at a time — asking
+before it changes anything and saying in one sentence what each thing is for — and then goes
+straight into your project. You will not be asked to install anything your project does not
+actually need, and nothing is installed without you saying yes to that specific thing.
 
 ## Money
 
