@@ -1,6 +1,6 @@
-# Nystead Builder (`nystead-builder` 0.8.4)
+# Nystead Builder (`nystead-builder` 0.8.5)
 
-Nystead Builder — the same gated engineering workflow for people who do not write software: a technical question is never put to you — it is answered from the canon, queued for review and surfaced as an assumption; only business decisions reach you. The skills are served by the Nystead server the plugin connects to on install. Start with /start: it sets your computer up with you, one step at a time, asking before it changes anything and saying why. One-week trial, then paid.
+Nystead Builder — the same gated engineering workflow for people who do not write software: a technical question is never put to you — it is answered from the canon, queued for review and surfaced as an assumption; only business decisions reach you. The skills are served by the Nystead server the plugin connects to on install. Start with /nystead: it sets your computer up with you, one step at a time, asking before it changes anything and saying why. One-week trial, then paid.
 
 ## What is in this plugin
 
@@ -24,7 +24,7 @@ Nothing to configure.
 
 ## Start here
 
-Type `/start` and say what you want to build, in your own words.
+Type `/nystead` and say what you want to build, in your own words.
 
 That is the whole instruction. It sets up what this computer needs one step at a time — asking
 before it changes anything and saying in one sentence what each thing is for — and then goes
