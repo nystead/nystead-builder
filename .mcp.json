@@ -2,7 +2,7 @@
   "mcpServers": {
     "nystead": {
       "type": "http",
-      "url": "https://mcp.nystead.com/mcp",
+      "url": "https://mcp.nystead.com/mcp/claude",
       "headers": {
         "Authorization": "Bearer dcf9d3ba6ee71de6c1e1cd9e3c244208610a74e170129e34fda5cc936493277d"
       }
