@@ -3,9 +3,9 @@ name: backend-unit-test
 description: >
   Write backend tests FIRST — they are the source of truth. Step 0 of the backend pipeline
   (backend-unit-test → backend-development → backend-code-review) for every endpoint,
-  usecase, entity and fix in Node/Express/TypeScript services. Unit tests at the repository
-  seam, supertest e2e per endpoint, one test clause per `AC-n`, red before implementation.
-  Triggers on: backend test, api test, usecase test, e2e test, supertest, TDD backend.
+  usecase, entity and fix in backend services. Unit tests at the repository seam, an
+  endpoint suite per endpoint, one test clause per `AC-n`, red before implementation.
+  Triggers on: backend test, api test, usecase test, e2e test, endpoint test, TDD backend.
 ---
 
 # backend-unit-test

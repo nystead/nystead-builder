@@ -1,11 +1,11 @@
 ---
 name: create-backend-project
 description: >
-  Scaffold a new company backend service: clean-architecture Express/TypeScript
-  (the company backend canon) with zod request validation, usecase classes, repository
-  seam, StatusError flow, winston logging, jest+ts-jest+supertest tests, and the
-  scaffold-shipped checks wired into lint — with flags for mongo, redis, cron, events, and
-  Socket.IO. Runs via the bundled node CLI or by the AI applying the same
+  Scaffold a new company backend service: clean-architecture layers (the company backend
+  canon) with request validation, usecase classes, repository seam, the one status-error
+  flow, structured logging, unit and endpoint tests, and the scaffold-shipped checks wired
+  into lint — with flags for persistence, cache, cron, events, and sockets. Runs via the
+  scaffold tool the repo's adapter names in its item 1, or by the AI applying the same
   templates. Triggers on: new backend, new service, scaffold api, create rest service.
 ---
 

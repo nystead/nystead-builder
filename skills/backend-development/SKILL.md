@@ -1,9 +1,9 @@
 ---
 name: backend-development
 description: >
-  The company backend canon for Node/Express/TypeScript services — clean architecture
-  (domain / application / infrastructure), zod request validation, usecase classes,
-  repositories with document↔entity mappers, StatusError flow, events and cron modules.
+  The company backend canon for backend services — clean architecture
+  (domain / application / infrastructure), throwing request validation, usecase classes,
+  repositories with document↔entity mappers, the one status-error flow, events and cron modules.
   Step 2 of the backend pipeline: backend-unit-test → backend-development →
   backend-code-review. Triggers on: backend, service, endpoint, usecase, implement api.
 ---

@@ -1,7 +1,7 @@
 ---
 name: backend-code-review
 description: >
-  Review Node/Express/TypeScript service changes against the backend canon. Graph-first
+  Review backend service changes against the backend canon. Graph-first
   global pass, the runnable battery in references/checks.md, a diff-scoped deep read with
   blast radius, test integrity with a mutation probe, security, and contract parity.
   Critical/Major/Minor with one verdict line; gate violations are Critical; findings feed

@@ -1,7 +1,7 @@
 ---
 name: frontend-code-review
 description: >
-  Review React/TypeScript changes against the company canon. Graph-first global pass, the
+  Review frontend changes against the company canon. Graph-first global pass, the
   runnable battery in references/checks.md, a diff-scoped deep read with blast radius, test
   integrity with a mutation probe, security and a11y, and the design-parity gate against the
   artboard. Critical/Major/Minor with one verdict line; findings feed the F-loop. Step 3 of

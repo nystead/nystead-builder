@@ -1,9 +1,9 @@
 ---
 name: frontend-development
 description: >
-  The company coding canon for React/TypeScript frontend work — the build order and the
-  folder structure, ownership and import direction, core entities and gateways, RTK state,
-  Formik+zod forms, theme tokens, performance, and the two mandatory gates. Step 2 of the
+  The company coding canon for frontend work — the build order and the
+  folder structure, ownership and import direction, core entities and gateways, the one state
+  library, forms with their schemas, theme tokens, performance, and the two mandatory gates. Step 2 of the
   pipeline: frontend-unit-test → frontend-development → frontend-code-review.
   Triggers on: implement, build component, add feature, fix bug, write frontend code.
 ---

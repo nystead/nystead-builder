@@ -1,13 +1,13 @@
 ---
 name: create-frontend-project
 description: >
-  Scaffold a new company frontend project: Vite + react-swc + checker, TypeScript,
-  airbnb+prettier eslint (the company frontend canon), the FRONTEND-METHOD-v2 folder structure,
-  RTK, Formik + formik-validator-zod, router v6 lazy, Vitest + Testing Library, and the
-  scaffold-shipped checks wired into lint — with a choice of UI library (antd default /
-  Joy / Material) and data layer (axios / GraphQL). Runs via the bundled node CLI or by
-  the AI applying the same templates.
-  Triggers on: new frontend project, scaffold app, create react app, start new UI project.
+  Scaffold a new company frontend project: the build tool with its type checker, the linter
+  and formatter configuration (the company frontend canon), the FRONTEND-METHOD-v2 folder
+  structure, the one state library, the form library with its schema validator, lazy routing,
+  the component test runner, and the scaffold-shipped checks wired into lint — with a choice of
+  UI library and data layer. Runs via the scaffold tool the repo's adapter names in its item 1,
+  or by the AI applying the same templates.
+  Triggers on: new frontend project, scaffold app, start new UI project.
 ---
 
 # create-frontend-project
